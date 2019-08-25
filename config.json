@@ -28,7 +28,7 @@
     "guildBackupsExpire": 7
   },
   "feeds": {
-    "refreshTimeMinutes": 10,
+    "refreshTimeMinutes": 0.5,
     "checkTitles": false,
     "timezone": "America/New_York",
     "dateFormat": "ddd, D MMMM YYYY, h:mm A z",
